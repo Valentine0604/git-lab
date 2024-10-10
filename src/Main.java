@@ -7,7 +7,8 @@ public class Main {
         System.out.println("yikes");
         System.out.println("Wah wah wah wah");
 
-
-
+        System.out.println("Hello Banana Cat");
+        System.out.println("Elgato cat");
+        System.out.println("Maxwell cat");
     }
 }
